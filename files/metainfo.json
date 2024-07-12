@@ -1,0 +1,22 @@
+{
+    "models": [
+        {
+            "name": "Model",
+            "database": "079194ce7fd3127674522ec532f0edf9f.vsfx",
+            "geometry": [],
+            "default": true
+        },
+        {
+            "name": "全视图",
+            "database": "bf1de2cc04b83383ee263e2569c77524f.vsfx",
+            "geometry": [],
+            "default": false
+        },
+        {
+            "name": "承台钢筋图",
+            "database": "88e5f429c47613e0b9f9e2c0676232bff.vsfx",
+            "geometry": [],
+            "default": false
+        }
+    ]
+}
